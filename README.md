@@ -16,10 +16,13 @@
 ## 📄 Overview
 
 Skin cancer is the **most common cancer in the United States**, affecting 1 in 5 Americans by age 70.  
-Early diagnosis and treatment significantly improve survival rates, especially for **melanoma**, the most aggressive form.
+Early diagnosis and treatment significantly
+improve survival rates, especially for **melanoma**, the most aggressive form.
 
-This project implements a **Vision Transformer (ViT)** architecture to automatically detect and classify skin lesions from dermatoscopic images.  
-Our goal is to support **AI-assisted clinical decision systems** that help dermatologists achieve faster and more accurate diagnoses.
+This project implements a **Vision Transformer (ViT)** 
+architecture to automatically detect and classify skin lesions from dermatoscopic images.  
+Our goal is to support **AI-assisted clinical decision systems** 
+that help dermatologists achieve faster and more accurate diagnoses.
 
 ---
 
@@ -106,16 +109,15 @@ python transformer_model.py
 
 
 Evaluate
-
 Confusion matrix and classification report auto-generated
 Model checkpoints saved in outputs/best_model.pth
 
 📊 Results and Evaluation
+
 ✅ CNN Model:
-
 Accuracy: 70.53%
-
 Loss: ≈1.20
+
 
 ✅ Vision Transformer (ViT) Model:
 Metric	Value
@@ -124,8 +126,11 @@ Testing Accuracy	89%
 Macro Avg F1-Score	0.82
 Weighted Avg F1-Score	0.89
 
+
 🧾 Observation:
-ViT outperformed CNN models, showing improved precision and recall for minority lesion classes.
+ViT outperformed CNN models, 
+showing improved precision and recall for minority lesion classes.
+
 
 📈 Model Comparison
 Aspect	CNN	ViT
