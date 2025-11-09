@@ -1,15 +1,15 @@
 # 🧠 AI700 Project – Skin Lesion Classification using Vision Transformer (ViT)
 
-> **Course:** AI700-001 (Fall 2025) – Machine Learning and Pattern Recognition  
-> **University:** Long Island University – Brooklyn Campus  
-> **Team Members:**  
-> - Rashmi Thimmaraju  
-> - Binh Diep  
-> - Kartavya Mandora  
-> - Kirtan Patel  
->  
-> **Date:** November 7, 2025  
-> **Instructor:** Prof. Reda Nacif ElAlaoui (Course Instructor)
+ **Course:** AI700-001 (Fall 2025) – Machine Learning and Pattern Recognition  
+ **University:** Long Island University – Brooklyn Campus  
+ **Team Members:**  
+  Rashmi Thimmaraju  
+ Binh Diep  
+ Kartavya Mandora  
+ Kirtan Patel  
+ 
+**Date:** November 7, 2025  
+ **Instructor:** Prof. Reda Nacif ElAlaoui (Course Instructor)
 
 ---
 
