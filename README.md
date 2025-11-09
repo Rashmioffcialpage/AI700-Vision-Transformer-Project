@@ -1,6 +1,6 @@
 # 🧠 AI700 Project – Skin Lesion Classification using Vision Transformer (ViT)
 
- **Course:** AI700-001 (Fall 2025) – Machine Learning and Pattern Recognition 
+ **Course:** AI700-001 (Fall 2025) – Deep learning
  
  **University:** Long Island University – Brooklyn Campus  
  
